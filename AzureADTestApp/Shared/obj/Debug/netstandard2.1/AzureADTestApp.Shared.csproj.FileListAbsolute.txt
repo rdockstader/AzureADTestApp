@@ -1,0 +1,9 @@
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\bin\Debug\netstandard2.1\AzureADTestApp.Shared.deps.json
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\bin\Debug\netstandard2.1\AzureADTestApp.Shared.dll
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\bin\Debug\netstandard2.1\AzureADTestApp.Shared.pdb
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.csprojAssemblyReference.cache
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.AssemblyInfoInputs.cache
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.AssemblyInfo.cs
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.dll
+C:\Users\ryan.dockstader\source\repos\AzureADTestApp\AzureADTestApp\Shared\obj\Debug\netstandard2.1\AzureADTestApp.Shared.pdb
